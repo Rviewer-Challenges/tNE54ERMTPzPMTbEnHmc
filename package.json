@@ -1,0 +1,31 @@
+{
+  "name": "memory_game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/node": "20.4.7",
+    "@types/react": "18.2.18",
+    "@types/react-beforeunload": "^2.1.1",
+    "@types/react-dom": "18.2.7",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "next": "^13.5.6",
+    "react": "18.2.0",
+    "react-cookie": "^6.1.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.1.2",
+    "redux-logger": "^3.0.6",
+    "reselect": "^4.1.8",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/redux-logger": "^3.0.9"
+  }
+}

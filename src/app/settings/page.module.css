@@ -1,0 +1,19 @@
+.li {
+    list-style: none;
+    margin-bottom: 0.7rem;
+    display: flex;
+    align-items: baseline;
+}
+
+.li span {
+    width: 5rem;
+    text-align: right;
+}
+
+.selectSizeButton {
+    font-size: 2rem;
+    width: 7rem;
+    height: 3rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+}

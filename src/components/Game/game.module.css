@@ -1,0 +1,21 @@
+.boardWrap {
+  position: relative;
+}
+
+.shuffleButton {
+  margin-bottom: 1rem !important;
+}
+
+.infobox {
+  width: 100%;
+  display: flex;
+}
+
+.infobox span {
+  width: 50%;
+  text-align: center;
+}
+
+.upperInfobox {
+  margin-bottom: 1rem;
+}
