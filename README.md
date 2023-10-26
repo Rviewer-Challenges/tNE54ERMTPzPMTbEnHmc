@@ -1,3 +1,5 @@
+deployed app is available on https://memory-game-ten-livid.vercel.app/
+
 # Memory Game
 
 Who hasn't played card games at some point? From a very young age to a beer night with friends, right?

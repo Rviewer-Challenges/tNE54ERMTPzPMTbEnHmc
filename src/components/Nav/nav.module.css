@@ -1,0 +1,12 @@
+.navMenu {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  list-style: none;
+}
+
+.navMenu li {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}

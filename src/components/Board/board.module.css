@@ -1,0 +1,38 @@
+.board {
+  margin-bottom: 1rem;
+}
+
+.board tr {
+  display: flex;
+}
+
+.board td {
+  width: 4rem;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.board td button {
+  width: 90%;
+  height: 90%;
+  font-size: 2rem;
+  color: paleturquoise;
+  background-color: darkmagenta;
+}
+
+.board td button.framed {
+  border: solid 2px khaki
+}
+
+.board td button.solved[disabled] {
+  background-color: cadetblue;
+  border: none;
+}
+
+.board td button[disabled] {
+  color: paleturquoise;
+  background-color: darkblue;
+  border: none;
+}

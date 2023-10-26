@@ -1,0 +1,33 @@
+.recordTable {
+    border-collapse: collapse;
+}
+
+.recordTable thead {
+    color: midnightblue;
+}
+
+.cellTitle {
+    width: 7rem;
+}
+
+.cellValue {
+    width: 5rem;
+}
+
+.recordRow td {
+    height: 2.5rem;
+    border-bottom: midnightblue solid 1px;
+}
+
+.columnTitle {
+    text-align: center;
+}
+
+.columnValue {
+    text-align: right;
+    padding-right: 1.5rem;
+}
+
+.clearButton {
+    margin-bottom: 2rem;
+}

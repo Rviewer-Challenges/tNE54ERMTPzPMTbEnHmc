@@ -1,0 +1,40 @@
+.main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem;
+  max-width: fit-content;
+  font-size: 1.1rem;
+}
+
+.main h1 {
+  margin-bottom: 2rem;
+  color: midnightblue;
+}
+
+.main h4 {
+  color: midnightblue;
+}
+
+.main .backToGameLink {
+  margin-top: 2rem;
+}
+
+.main button {
+  font-size: 1.3rem;
+  width: 6rem;
+  height: 3rem;
+  border-radius: 5px;
+  color: darkmagenta;
+  background-color: paleturquoise;
+  border: none;
+}
+
+.main button[disabled] {
+  color: midnightblue;
+  background-color: inherit;
+  border: 1px solid midnightblue;
+}
+
